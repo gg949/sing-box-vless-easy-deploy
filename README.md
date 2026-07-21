@@ -1,6 +1,6 @@
 # sing-box-easy-deploy
 
-一个简单的 sing-box 多协议一键安装与管理脚本。
+一个支持nat的 sing-box 多协议一键安装与管理脚本。
 
 支持 Shadowsocks、Hysteria2、VLESS Reality，以及 VLESS Reality 链式中转。支持nat
 
