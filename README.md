@@ -15,7 +15,7 @@ sudo -i
 然后运行：
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/sing-box-easy-deploy/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/MrlixiangWE/sing-box-easy-deploy/main/install.sh)
 ```
 
 请将命令中的 `你的用户名` 替换为你的 GitHub 用户名。
