@@ -15,7 +15,7 @@ sudo -i
 然后运行：
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/MrlixiangWE/sing-box-vless-easy-deploy/main/install-singbox-yyds2.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/gg949/sing-box-vless-easy-deploy/main/install-singbox-yyds2.sh)
 ```
 
 请将命令中的 `你的用户名` 替换为你的 GitHub 用户名。
@@ -120,7 +120,7 @@ sb
 
 ```bash
 sudo -i
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/sing-box-easy-deploy/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/gg949/sing-box-easy-deploy/main/install.sh)
 ```
 
 安装完成后输入：
@@ -149,7 +149,7 @@ vless://UUID@落地机IP:端口?encryption=none&flow=xtls-rprx-vision&security=r
 
 ```bash
 sudo -i
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/sing-box-easy-deploy/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/gg949/sing-box-easy-deploy/main/install.sh)
 ```
 
 安装完成后输入：
